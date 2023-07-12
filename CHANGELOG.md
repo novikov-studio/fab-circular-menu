@@ -1,3 +1,8 @@
+## 2.0.0
+
+#### **BREAKING**
+* Migrated to Dart 3 and Flutter 3.10
+
 ## 1.0.2
 * Null safety
 * Changed the children count requirement to 1 from 2
